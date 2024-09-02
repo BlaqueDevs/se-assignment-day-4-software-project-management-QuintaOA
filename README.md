@@ -76,7 +76,7 @@ The system aims in providing a high quality software that enables the users subm
 
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-Software solution will giveaccess of multiple recipes,tried and tested plus vitual guide and Q & A session on request.
+ Software solution will giveaccess of multiple recipes,tried and tested plus vitual guide and Q & A session on request.
 
 ## 11. What are the main features or functionalities that make your software stand out?
 Quick sign up steps
