@@ -47,7 +47,22 @@ Evaluating the QA outcomes regularly
 Maintaing high stanadard:
 Ensures that the project deliverables meet the required standards and satisfy customer expectations.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining scope enables the team to hit the project goals and objectives without delay or overwork.
+WBS is a project management system that breaks projects into smaller, more manageable components or tasks.It is a visual tool that breaks down the entire project to make it easier to plan, organize, and track progress
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits:
+    Ensures that everything comes from the project schedule.
+    Taska are well Prioritized
+    Establishes a project timeline. 
+    Monitors team performance(Resource management).
+    Simplifies the project management process.
+    Ensures consistency.
+    Promotes best practices(Risk management).
+    Leads to Stakeholder satisfaction
+
+  Gantt charts assists to identifies tasks that may be executed in parallel and those that can't be started or finished until others are complete.Therefore,helps detect    potential bottlenecks and identify tasks that may have been excluded from the project timeline.
+
+  
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
