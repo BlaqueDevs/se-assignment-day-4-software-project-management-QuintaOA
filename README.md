@@ -6,7 +6,7 @@ Timely delivery crucial because it keeps the project on schedule.
 PMs ensures that deadlines are met by : Ensure thatthe team understands the deadline,scope and the expected deliverables,Selecting the correct methodology for the project,have clearly defined KPIs, flagging risks correctly, having review meetings to check progress and having the right resources and good number of resources working on the project.
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control  helps identify areas of excessive spending, inefficiencies, and waste.
-Strategies:
+Strategies: 
  Conduct thorough research and analysis during project planning.
  Involve key stakeholders in the estimation process for diverse  perspectives.
  Establish a collaborative approach within the project team to  enhance accuracy.
